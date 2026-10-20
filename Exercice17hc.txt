@@ -1,1 +1,2 @@
 Message Etudiant B(Elvira):Salut Hugo! 
+Message Etudiant A (Hugo):Salut Elvira!   ne pas effacer
