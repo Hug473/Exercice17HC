@@ -6,3 +6,7 @@ Message Etudiant B(Elvira):Salut Hugo! Bonne Journée
 Message Etudiant A (Hugo):Salut Elvira il s'agit d'un autre changement!
 
 Message Etudiant B(Elvira):Salut Hugo! BIEN REÇU
+
+Message Etudiant C(Dan):Salut Elvira
+
+
