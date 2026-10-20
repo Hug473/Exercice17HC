@@ -1,1 +1,1 @@
-Message Etudiant A(Hugo Caron):Salut Elvira! 
+Message Etudiant B(Elvira):Salut Hugo! 
